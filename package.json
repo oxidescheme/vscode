@@ -1,0 +1,21 @@
+{
+  "name": "oxide",
+  "displayName": "oxide",
+  "description": " A minimalist colorscheme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "oxide",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oxide-color-theme.json"
+      }
+    ]
+  }
+}
