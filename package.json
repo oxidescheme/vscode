@@ -1,18 +1,49 @@
 {
-  "name": "oxide",
-  "displayName": "oxide",
-  "description": " A minimalist colorscheme for vscode",
-  "version": "0.0.1",
+  "name": "oxide-theme",
+  "displayName": "Oxide Theme",
+  "description": "A minimalist dark theme with precise colors and elegant restraint",
+  "version": "0.1.0",
+  "publisher": "oxidescheme",
+  "author": {
+    "name": "Jakub Mazur",
+    "url": "https://github.com/jakmaz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oxidescheme/vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oxidescheme/vscode/issues"
+  },
+  "homepage": "https://github.com/oxidescheme/vscode#readme",
+  "keywords": [
+    "theme",
+    "dark",
+    "minimal",
+    "oxide",
+    "colorscheme",
+    "elegant",
+    "programming",
+    "developer",
+    "dark theme",
+    "color theme"
+  ],
+  "icon": "assets/logo.png",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.109.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#161616",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "oxide",
+        "label": "Oxide",
         "uiTheme": "vs-dark",
         "path": "./themes/oxide-color-theme.json"
       }
