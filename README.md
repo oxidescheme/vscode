@@ -63,12 +63,12 @@ code --install-extension oxidescheme.oxide-theme
 
 ### Comprehensive Syntax Highlighting
 
-- **Functions**: Red (`#ff5655`) - Clear identification of callable elements
-- **Strings**: Green (`#00c300`) - Distinct text and data representation
-- **Keywords**: Purple (`#9588ff`) - Language structure and control flow
-- **Variables**: Blue (`#00a6ff`) - Identifiers and references
+- **Functions**: Red (`#ed756e`) - Clear identification of callable elements
+- **Strings**: Green (`#5bb661`) - Distinct text and data representation
+- **Keywords**: Purple (`#968ff7`) - Language structure and control flow
+- **Variables**: Blue (`#3ba6f5`) - Identifiers and references
 - **Types/Classes**: Sky (`#00b3d6`) - Type definitions and structures
-- **Constants/Numbers**: Orange (`#f67400`) - Literal values
+- **Constants/Numbers**: Orange (`#e48233`) - Literal values
 - **Comments**: Subtle gray (`#484848`) - Intentionally de-emphasized
 - **Operators**: Text color (`#cecece`) - Minimal distraction
 
@@ -121,14 +121,14 @@ oxide uses a carefully calibrated OKLCH color space palette:
 - **Subtle Text**: `#bebebe`, `#8f8f8f`, `#484848` - Hierarchical grays
 
 ### Accent Colors
-- **Red**: `#ff5655` - Errors, functions
-- **Orange**: `#f67400` - Warnings, constants
-- **Yellow**: `#be9b00` - Highlights, search
-- **Green**: `#00c300` - Success, strings
+- **Red**: `#ed756e` - Errors, functions
+- **Orange**: `#e48233` - Warnings, constants
+- **Yellow**: `#c39900` - Highlights, search
+- **Green**: `#5bb661` - Success, strings
 - **Teal**: `#00baaa` - Special elements, imports
 - **Sky**: `#00b3d6` - Types, classes
-- **Blue**: `#00a6ff` - Variables, information
-- **Purple**: `#9588ff` - Keywords, control flow
+- **Blue**: `#3ba6f5` - Variables, information
+- **Purple**: `#968ff7` - Keywords, control flow
 
 ## Contributing
 
