@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-02-16
+
+### Changed
+- Updated color palette from chroma 17 to chroma 15 for softer, more pastel appearance
+- Improved markdown styling: headers now use blue, link labels use normal text color, URLs use sky
+- Enhanced selection and hover backgrounds for better subtlety and minimalism
+- Refined link hierarchy in markdown for clearer visual distinction
+
+### Added
+- Modern VSCode features support: sticky scroll, inlay hints, bracket pair guides, chat integration
+- Enhanced markdown URL styling with proper color coding
+
 ## [0.1.0] - 2025-02-13
 
 ### Added
